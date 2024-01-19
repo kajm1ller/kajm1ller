@@ -1,4 +1,7 @@
-### Hi there 👋
+### Software Engineering Major at BGSU.
+### Currently expanding my C++ skills, working on both sides of web development.
+### Pronouns: He/Him
+### Contact: kajm@bgsu.edu
 
 <!--
 **kajm1ller/kajm1ller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
