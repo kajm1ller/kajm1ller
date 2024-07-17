@@ -1,5 +1,4 @@
 ### Software Engineering Major at BGSU.
-### Currently expanding my C++ skills, working on both sides of web development.
 ### Pronouns: He/Him
 ### Contact: kajm@bgsu.edu
 
